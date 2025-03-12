@@ -1,1 +1,1 @@
-# fire-detection-using-image
+# fire-prediction-using-image
