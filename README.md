@@ -41,6 +41,7 @@ The image is preprocessed to match the format expected by the model (resized to 
 # Installation
 
 To run this project, you'll need to install the following dependencies:
+
 TensorFlow: 
 Used for model creation and training.
 
